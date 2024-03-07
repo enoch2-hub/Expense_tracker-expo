@@ -130,6 +130,11 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
     marginBottom: 16,
+    backgroundColor: '#4769ff7c',
+    borderRadius: 10,
+    color: '#fff',
+    padding: 10,
+    textAlign: 'center',
   },
   btn:{
     backgroundColor: 'red',
